@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<managers>
+<manager id="1">
+<name>4</name>
+<surname>5</surname>
+<birthday>5</birthday>
+<startwork>5</startwork>
+<workers>[5, 6, 4, 1]</workers>
+</manager>
+<manager id="2">
+<name>4</name>
+<surname>5</surname>
+<birthday>4</birthday>
+<startwork>1</startwork>
+<workers>[1, 2, 5]</workers>
+</manager>
+<manager id="3">
+<name>5</name>
+<surname>6</surname>
+<birthday>4</birthday>
+<startwork>1</startwork>
+<workers>[2]</workers>
+</manager>
+<manager id="4">
+<name>jsdjskld</name>
+<surname>jdksjdks</surname>
+<birthday>14/12/1978</birthday>
+<startwork>06/06/2000</startwork>
+<workers>[1, 2]</workers>
+</manager>
+<manager id="5">
+<name>trtr</name>
+<surname>trtr</surname>
+<birthday>14/08/2000</birthday>
+<startwork>02/02/2015</startwork>
+<workers>[5, 4]</workers>
+</manager>
+<manager id="6">
+<name>dsd</name>
+<surname>dsds</surname>
+<birthday>ds</birthday>
+<startwork>ds</startwork>
+<workers>[4, 5]</workers>
+</manager>
+<manager id="7">
+<name>aaa</name>
+<surname>aaa</surname>
+<birthday>aaa</birthday>
+<startwork>aaa</startwork>
+<workers>[4, 5]</workers>
+</manager>
+<manager id="9">
+<name>q</name>
+<surname>q</surname>
+<birthday>q</birthday>
+<startwork>q</startwork>
+<workers>[]</workers>
+</manager>
+<manager id="10">
+<name>aa</name>
+<surname>aa</surname>
+<birthday>aa</birthday>
+<startwork>aa</startwork>
+<workers>[]</workers>
+</manager>
+<manager id="11">
+<name>a</name>
+<surname>a</surname>
+<birthday>a</birthday>
+<startwork>a</startwork>
+<workers>[1, 3]</workers>
+</manager>
+</managers>
